@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohaadahgh.devynfreet.com/sitemap.xml
